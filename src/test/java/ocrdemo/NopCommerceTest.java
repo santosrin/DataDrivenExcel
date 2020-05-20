@@ -25,20 +25,28 @@ public class NopCommerceTest {
 
     public WebDriver driver;
 
-    public ExtentHtmlReporter htmlReporter;
+    //public ExtentHtmlReporter htmlReporter;
+    public ExtentSparkReporter sparkReporter;
     public ExtentReports extentReports;
     public ExtentTest test;
 
     @BeforeTest
     public void setExtent() {
-        htmlReporter = new ExtentHtmlReporter(System.getProperty("user.dir")+"/test-output/myReport.html");
-
-        htmlReporter.config().setDocumentTitle("Automation Report"); //title of the report
-        htmlReporter.config().setReportName("Functional Report");//name of the report
-        htmlReporter.config().setTheme(Theme.DARK);
+        String path = System.getProperty("user.dir")+"/test-output/myReport.html";
+        System.out.println("path: "+ path);
+        sparkReporter = new ExtentSparkReporter(System.getProperty("user.dir")+"/test-output/myReport.html");
+        sparkReporter.config().setDocumentTitle("Automation Report");
+        sparkReporter.config().setReportName("Functional Report");
+        sparkReporter.config().setTheme(Theme.STANDARD);
+//
+//        htmlReporter = new ExtentHtmlReporter(System.getProperty("user.dir")+"/test-output/myReport.html");
+//        htmlReporter.config().setDocumentTitle("Automation Report"); //title of the report
+//        htmlReporter.config().setReportName("Functional Report");//name of the report
+//        htmlReporter.config().setTheme(Theme.DARK);
 
         extentReports = new ExtentReports();
-        extentReports.attachReporter(htmlReporter); //attach
+        //extentReports.attachReporter(htmlReporter); //attach
+        extentReports.attachReporter(sparkReporter);
         extentReports.setSystemInfo("hostname","localhost");
         extentReports.setSystemInfo("OS","Windows");
         extentReports.setSystemInfo("Tester","Tom");
@@ -65,7 +73,7 @@ public class NopCommerceTest {
 
         String title = driver.getTitle();
         System.out.println(title);
-        Assert.assertEquals(title,"nopCommerce demo store");
+        Assert.assertEquals(title,"nopCommerce demo store1");
     }
 
     @Test
