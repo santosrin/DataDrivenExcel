@@ -2,14 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b2bb4da3-9af0-4114-9dbf-0e1a33fed90c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/extentreports/ExtentReportsBase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ocrdemo/ExtentReportsNewCheck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ocrdemo/NopCommerceTest1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/application.log" beforeDir="false" afterPath="$PROJECT_DIR$/application.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ocrdemo/NopCommerceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ocrdemo/NopCommerceTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/META-INF/DataDrivenExcel.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/ocrdemo/NopCommerceTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/ocrdemo/NopCommerceTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/myReport.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/myReport.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -118,7 +113,7 @@
         <entry file="file://$PROJECT_DIR$/src/test/java/ocrdemo/NopCommerceTest1.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-68">
-              <caret line="67" lean-forward="true" selection-start-line="67" selection-end-line="67" />
+              <caret line="67" selection-start-line="67" selection-end-line="67" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -129,10 +124,9 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/ocrdemo/ExtentReportsNewCheck.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="33" column="37" lean-forward="true" selection-start-line="33" selection-start-column="37" selection-end-line="33" selection-end-column="37" />
+            <state relative-caret-position="-542">
+              <caret line="4" column="34" lean-forward="true" selection-start-line="4" selection-start-column="34" selection-end-line="4" selection-end-column="34" />
               <folding>
-                <element signature="imports" expanded="true" />
                 <element signature="e#1529#1530#0" expanded="true" />
                 <element signature="e#1559#1560#0" expanded="true" />
               </folding>
@@ -216,10 +210,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-46" />
+    <option name="x" value="-41" />
     <option name="y" value="23" />
     <option name="width" value="1481" />
-    <option name="height" value="995" />
+    <option name="height" value="838" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -434,9 +428,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="ExtentReportsNewCheck - 2020.05.20 at 14h 09m 18s.xml">
-      <configuration name="ExtentReportsNewCheck" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="ExtentReportsNewCheck_(1) - 2020.05.20 at 14h 10m 20s.xml">
       <configuration name="ExtentReportsNewCheck (1)" configurationId="TestNG" />
     </history-entry>
@@ -464,12 +455,15 @@
     <history-entry file="ExtentReportsNewCheck - 2020.05.20 at 14h 55m 22s.xml">
       <configuration name="ExtentReportsNewCheck" configurationId="TestNG" />
     </history-entry>
+    <history-entry file="ExtentReportsNewCheck - 2020.05.20 at 15h 12m 50s.xml">
+      <configuration name="ExtentReportsNewCheck" configurationId="TestNG" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-46" y="23" width="1481" height="995" extended-state="0" />
+    <frame x="-41" y="23" width="1481" height="838" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.266852" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.266852" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -478,7 +472,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3297587" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.33554816" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.47453085" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.28150135" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -821,7 +815,7 @@
     <entry file="file://$PROJECT_DIR$/src/test/java/ocrdemo/NopCommerceTest1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-68">
-          <caret line="67" lean-forward="true" selection-start-line="67" selection-end-line="67" />
+          <caret line="67" selection-start-line="67" selection-end-line="67" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -830,10 +824,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/ocrdemo/ExtentReportsNewCheck.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="33" column="37" lean-forward="true" selection-start-line="33" selection-start-column="37" selection-end-line="33" selection-end-column="37" />
+        <state relative-caret-position="-542">
+          <caret line="4" column="34" lean-forward="true" selection-start-line="4" selection-start-column="34" selection-end-line="4" selection-end-column="34" />
           <folding>
-            <element signature="imports" expanded="true" />
             <element signature="e#1529#1530#0" expanded="true" />
             <element signature="e#1559#1560#0" expanded="true" />
           </folding>
