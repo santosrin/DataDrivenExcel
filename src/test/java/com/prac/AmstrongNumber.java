@@ -8,8 +8,8 @@ public class AmstrongNumber {
         t = num;
         while(num > 0) {
             r = num%10;
-            num = num/10;
             cube = cube+(r*r*r);
+            num = num/10;
         }
         if(t == cube) {
             System.out.println("Amstrong Number");
