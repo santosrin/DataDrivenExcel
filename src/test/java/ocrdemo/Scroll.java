@@ -1,5 +1,6 @@
 package ocrdemo;
 
+import io.github.bonigarcia.wdm.WebDriverManager;
 import org.openqa.selenium.By;
 import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebDriver;
@@ -12,13 +13,15 @@ public class Scroll {
 
     WebDriver driver;
     @Test
-    public void scrollPage() {
-        System.setProperty("webdriver.chrome.driver","/Users/santoshsrinivas/Documents/DataDrivenExcel/src/main/java" +
-                "/com/drivers/chromedriver");
+    public void scrollPage() throws InterruptedException {
+        //System.setProperty("webdriver.chrome.driver","/Users/santoshsrinivas/Documents/DataDrivenExcel/src/main/java" +
+              //  "/com/drivers/chromedriver");
+        WebDriverManager.chromedriver().setup();
         driver = new ChromeDriver();
         driver.manage().window().maximize();
 
         driver.get("https://freecrm.co.in/");
+        Thread.sleep(5000);
         JavascriptExecutor js = ((JavascriptExecutor)driver);
         //js.executeScript("window.scrollTo(0,document.body.scrollHeight)");
 
