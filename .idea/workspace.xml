@@ -2,9 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b2bb4da3-9af0-4114-9dbf-0e1a33fed90c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/ocrdemo/JSExp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ocrdemo/DBDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ocrdemo/DBDemoClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ocrdemo/Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ocrdemo/Demo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ocrdemo/Demo4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ocrdemo/Demo5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ocrdemo/Demo6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ocrdemo/Demo7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ocrdemo/Dummy1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ocrdemo/Dummy2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ocrdemo/Scroll.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ocrdemo/Scroll.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/ocrdemo/JSExp.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/ocrdemo/JSExp.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -20,10 +29,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/ocrdemo/BootStrapDropDown.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/ocrdemo/DBDemoClass.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="13" column="4" selection-start-line="13" selection-start-column="4" selection-end-line="16" selection-end-column="27" />
+            <state relative-caret-position="495">
+              <caret line="34" selection-start-line="34" selection-end-line="34" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -32,34 +41,37 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/ocrdemo/HandleBootStrapDropBoxes.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/ocrdemo/DBDemo2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="77" lean-forward="true" selection-start-line="13" selection-start-column="6" selection-end-line="16" selection-end-column="77" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="315">
+              <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/ocrdemo/Dummy1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="11" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/ocrdemo/JSExp.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/ocrdemo/Dummy2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="110">
-              <caret line="17" column="10" selection-start-line="17" selection-start-column="10" selection-end-line="17" selection-end-column="10" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="120">
+              <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/ocrdemo/Scroll.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/DBConnection/DataBaseUtil.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-17">
-              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+            <state relative-caret-position="270">
+              <caret line="18" column="33" selection-start-line="18" selection-start-column="33" selection-end-line="19" selection-end-column="64" />
             </state>
           </provider>
         </entry>
@@ -77,6 +89,7 @@
     <findStrings>
       <find>classes</find>
       <find>screenShotPath</find>
+      <find>getCo</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -85,16 +98,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/test/java/com/prac/ReverseInteger.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/prac/MissingArrayNumber.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/prac/DuplicateElements.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/prac/SmallLargeNumberInArray.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/prac/StringManipulation.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/prac/SwapVar.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/prac/SwapString.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/prac/PrimeNumber.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/prac/Palindrome.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/prac/palindromestring.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/prac/Factorial.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/prac/DuplicateWordsInString.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/prac/StringOnlyDigits.java" />
@@ -136,6 +139,16 @@
         <option value="$PROJECT_DIR$/src/test/java/ocrdemo/HandleBootStrapDropBoxes.java" />
         <option value="$PROJECT_DIR$/src/test/java/ocrdemo/Scroll.java" />
         <option value="$PROJECT_DIR$/src/test/java/ocrdemo/JSExp.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ocrdemo/Demo1.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ocrdemo/Demo2.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ocrdemo/Demo4.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ocrdemo/Demo5.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ocrdemo/Demo6.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ocrdemo/Demo7.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ocrdemo/DBDemoClass.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ocrdemo/DBDemo2.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ocrdemo/Dummy1.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ocrdemo/Dummy2.java" />
       </list>
     </option>
   </component>
@@ -147,8 +160,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="100" />
-    <option name="y" value="69" />
+    <option name="x" value="18" />
+    <option name="y" value="23" />
     <option name="width" value="1481" />
     <option name="height" value="789" />
   </component>
@@ -158,7 +171,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -198,6 +210,15 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="DBConnection" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DataDrivenExcel" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DataDrivenExcel" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="ocrdemo" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -213,6 +234,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -251,9 +273,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.JSExp">
-    <configuration name="BootStrapDropDown" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ocrdemo.BootStrapDropDown" />
+  <component name="RunManager" selected="Application.Dummy2">
+    <configuration name="DBDemo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ocrdemo.DBDemo2" />
       <module name="DataDrivenExcel" />
       <extension name="coverage">
         <pattern>
@@ -265,8 +287,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HandleBootStrapDropBoxes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ocrdemo.HandleBootStrapDropBoxes" />
+    <configuration name="DBDemoClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ocrdemo.DBDemoClass" />
       <module name="DataDrivenExcel" />
       <extension name="coverage">
         <pattern>
@@ -278,8 +300,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JSExp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ocrdemo.JSExp" />
+    <configuration name="Demo6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ocrdemo.Demo6" />
       <module name="DataDrivenExcel" />
       <extension name="coverage">
         <pattern>
@@ -291,7 +313,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Scroll" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="Demo7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ocrdemo.Demo7" />
       <module name="DataDrivenExcel" />
       <extension name="coverage">
         <pattern>
@@ -299,16 +322,12 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="ocrdemo" />
-      <option name="MAIN_CLASS_NAME" value="ocrdemo.Scroll" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Scroll.scrollPage" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="Dummy2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ocrdemo.Dummy2" />
       <module name="DataDrivenExcel" />
       <extension name="coverage">
         <pattern>
@@ -316,23 +335,17 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="ocrdemo" />
-      <option name="MAIN_CLASS_NAME" value="ocrdemo.Scroll" />
-      <option name="METHOD_NAME" value="scrollPage" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.JSExp" />
-        <item itemvalue="TestNG.Scroll" />
-        <item itemvalue="TestNG.Scroll.scrollPage" />
-        <item itemvalue="Application.HandleBootStrapDropBoxes" />
-        <item itemvalue="Application.BootStrapDropDown" />
+        <item itemvalue="Application.Dummy2" />
+        <item itemvalue="Application.DBDemo2" />
+        <item itemvalue="Application.DBDemoClass" />
+        <item itemvalue="Application.Demo7" />
+        <item itemvalue="Application.Demo6" />
       </list>
     </recent_temporary>
   </component>
@@ -382,9 +395,9 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="100" y="69" width="1481" height="789" extended-state="0" />
+    <frame x="18" y="23" width="1481" height="789" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2703266" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27380124" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -393,8 +406,8 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3297587" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.40315637" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.28150135" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.33715925" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.28120518" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -414,100 +427,99 @@
       <window_info anchor="right" id="Palette&#9;" order="8" />
     </layout>
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/ocrdemo/DBDemo2.java</url>
+          <line>30</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/ocrdemo/DBDemo2.java</url>
+          <line>31</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/ocrdemo/DBDemo2.java</url>
+          <line>6</line>
+          <properties />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/ocrdemo/DBDemo2.java</url>
+          <line>7</line>
+          <properties />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/ocrdemo/DBDemo2.java</url>
+          <line>9</line>
+          <properties />
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/ocrdemo/DBDemo2.java</url>
+          <line>10</line>
+          <properties />
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/ocrdemo/DBDemo2.java</url>
+          <line>11</line>
+          <properties />
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/ocrdemo/DBDemo2.java</url>
+          <line>13</line>
+          <properties />
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/ocrdemo/DBDemo2.java</url>
+          <line>17</line>
+          <properties />
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/ocrdemo/DBDemo2.java</url>
+          <line>18</line>
+          <properties />
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/ocrdemo/DBDemo2.java</url>
+          <line>20</line>
+          <properties />
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/ocrdemo/DBDemo2.java</url>
+          <line>22</line>
+          <properties />
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/ocrdemo/DBDemo2.java</url>
+          <line>23</line>
+          <properties />
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/ocrdemo/DBDemo2.java</url>
+          <line>29</line>
+          <properties class="ocrdemo.DBDemo2" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/prac/DuplicateElements.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="226">
-          <caret line="43" column="65" lean-forward="true" selection-start-line="43" selection-start-column="65" selection-end-line="43" selection-end-column="65" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#608#616#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/prac/SmallLargeNumberInArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="87">
-          <caret line="8" column="59" lean-forward="true" selection-start-line="8" selection-start-column="59" selection-end-line="8" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/prac/StringManipulation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/prac/SwapVar.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="25" column="18" lean-forward="true" selection-start-line="25" selection-start-column="18" selection-end-line="25" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/prac/SwapString.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/prac/PrimeNumber.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="354">
-          <caret line="26" column="44" lean-forward="true" selection-start-line="26" selection-start-column="44" selection-end-line="26" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/morepractice.java" />
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/prac/StringOnlyDigits.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="25" lean-forward="true" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/prac/DuplicateWordsInString.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="83">
-          <caret line="19" column="55" lean-forward="true" selection-start-line="19" selection-start-column="55" selection-end-line="19" selection-end-column="55" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/prac/palindromestring.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="6" column="24" lean-forward="true" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
-          <folding>
-            <element signature="e#445#446#0" expanded="true" />
-            <element signature="e#473#474#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/prac/Palindrome.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="19" lean-forward="true" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
-          <folding>
-            <element signature="e#497#498#0" expanded="true" />
-            <element signature="e#530#531#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/morepractice/PRInteger.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/morepractice/AddNumbers.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -740,13 +752,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/DBConnection/DataBaseUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="343">
-          <caret line="25" column="31" lean-forward="true" selection-start-line="25" selection-start-column="31" selection-end-line="25" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/morepractice/FireFoxHeadless.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="336">
@@ -770,7 +775,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/ocrdemo/BootStrapDropDown.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
+        <state>
           <caret line="13" column="4" selection-start-line="13" selection-start-column="4" selection-end-line="16" selection-end-column="27" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -781,7 +786,7 @@
     <entry file="file://$PROJECT_DIR$/src/test/java/ocrdemo/HandleBootStrapDropBoxes.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
-          <caret line="16" column="77" lean-forward="true" selection-start-line="13" selection-start-column="6" selection-end-line="16" selection-end-column="77" />
+          <caret line="16" column="77" selection-start-line="13" selection-start-column="6" selection-end-line="16" selection-end-column="77" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -791,17 +796,119 @@
     <entry file="file://$PROJECT_DIR$/src/test/java/ocrdemo/Scroll.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-17">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/ocrdemo/JSExp.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
+        <state relative-caret-position="242">
           <caret line="17" column="10" selection-start-line="17" selection-start-column="10" selection-end-line="17" selection-end-column="10" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/src.zip!/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2891">
+          <caret line="36" column="13" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ocrdemo/Demo1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ocrdemo/Demo2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="31" column="13" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ocrdemo/Demo4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="30" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ocrdemo/Demo5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ocrdemo/Demo6.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ocrdemo/Demo7.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="12" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
+          <folding>
+            <element signature="e#77#78#0" expanded="true" />
+            <element signature="e#95#96#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/src.zip!/java/sql/DriverManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="127">
+          <caret line="204" column="54" lean-forward="true" selection-start-line="204" selection-start-column="54" selection-end-line="204" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ocrdemo/DBDemoClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ocrdemo/DBDemo2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ocrdemo/Dummy1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="11" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
+          <folding>
+            <element signature="e#74#75#0" expanded="true" />
+            <element signature="e#110#111#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/DBConnection/DataBaseUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="33" selection-start-line="18" selection-start-column="33" selection-end-line="19" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ocrdemo/Dummy2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
         </state>
       </provider>
     </entry>
