@@ -2,7 +2,7 @@ package ocrdemo;
 
 public class Demo7 {
 
-   static int i;
+    static int i;
     public Demo7() {
         i++;
     }

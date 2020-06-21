@@ -1,23 +1,91 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="b2bb4da3-9af0-4114-9dbf-0e1a33fed90c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/ocrdemo/DBDemo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ocrdemo/DBDemoClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ocrdemo/Demo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ocrdemo/Demo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ocrdemo/Demo4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ocrdemo/Demo5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ocrdemo/Demo6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ocrdemo/Demo7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ocrdemo/Dummy1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ocrdemo/Dummy2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/DataDrivenExcel.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/Learnings/Anagram1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/Learnings/Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/morepractice/Anagram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/morepractice/MoveZerosToEnd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/morepractice/Nof.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/morepractice/SecondHighest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/morepractice/duplicatechars.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/prac/PrimeNumber2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ocrdemo/GFG.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ocrdemo/GFG1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ocrdemo/MiddleChar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ocrdemo/OccurenceOfChar.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/ocrdemo/JSExp.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/ocrdemo/JSExp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/utility/Xls_Reader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/utility/Xls_Reader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/datadriven/test/DataDrivenTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/datadriven/test/DataDrivenTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/datadriven/test/ExcelOperations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/datadriven/test/ExcelOperations.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/datadriven/test/HalfEbayTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/datadriven/test/HalfEbayTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/datadriven/test/ParameterizeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/datadriven/test/ParameterizeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/datadriven/test/TestUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/datadriven/test/TestUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/morepractice/DecimalToOctal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/morepractice/DecimalToOctal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/morepractice/LargestAmong3Numbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/morepractice/LargestAmong3Numbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/morepractice/NatualNumberSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/morepractice/NatualNumberSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/morepractice/NaturalNumbersRecursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/morepractice/NaturalNumbersRecursion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/morepractice/NumberOfDigitsInInteger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/morepractice/NumberOfDigitsInInteger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/morepractice/Palindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/morepractice/Palindrome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/morepractice/SwapTwoNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/morepractice/SwapTwoNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/prac/AmstrongNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/prac/AmstrongNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/prac/DuplicateElements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/prac/DuplicateElements.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/prac/Palindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/prac/Palindrome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/prac/SwapString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/prac/SwapString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/prac/SwapVar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/prac/SwapVar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ocrdemo/Demo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ocrdemo/Demo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ocrdemo/Demo7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ocrdemo/Demo7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ocrdemo/ReadCaptcha.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ocrdemo/ReadCaptcha.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ocrdemo/ReadImages.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ocrdemo/ReadImages.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ocrdemo/Sikuli2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ocrdemo/Sikuli2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ocrdemo/SikuliDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ocrdemo/SikuliDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/utility/Xls_Reader.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/META-INF/DataDrivenExcel.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/datadriven/test/DataDrivenTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/datadriven/test/ExcelOperations.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/datadriven/test/HalfEbayTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/datadriven/test/ParameterizeTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/datadriven/test/TestUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/extentreports/ExtentReportsBase.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/extentreports/ExtentReportsBase.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/morepractice/DecimalToOctal.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/morepractice/DecimalToOctal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/morepractice/LargestAmong3Numbers.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/morepractice/LargestAmong3Numbers.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/morepractice/NatualNumberSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/morepractice/NatualNumberSum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/morepractice/NaturalNumbersRecursion.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/morepractice/NaturalNumbersRecursion.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/morepractice/Palindrome.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/morepractice/Palindrome.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/morepractice/SwapTwoNumbers.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/morepractice/SwapTwoNumbers.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/prac/AmstrongNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/prac/AmstrongNumber.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/prac/SwapString.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/prac/SwapString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/prac/SwapVar.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/prac/SwapVar.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/ocrdemo/A.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/ocrdemo/Demo1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/ocrdemo/ExtentReportsNewCheck.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/ocrdemo/ExtentReportsNewCheck.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/ocrdemo/NopCommerceTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/ocrdemo/NopCommerceTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/ocrdemo/ReadCaptcha.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/ocrdemo/ReadImages.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/ocrdemo/Sikuli2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/ocrdemo/SikuliDemo.class" beforeDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
-    <ignored path="$PROJECT_DIR$/target/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,58 +93,6 @@
   </component>
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/ocrdemo/DBDemoClass.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="495">
-              <caret line="34" selection-start-line="34" selection-end-line="34" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/ocrdemo/DBDemo2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/ocrdemo/Dummy1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="11" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/ocrdemo/Dummy2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/DBConnection/DataBaseUtil.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="33" selection-start-line="18" selection-start-column="33" selection-end-line="19" selection-end-column="64" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -95,157 +111,22 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/src/test/java/com/prac/Factorial.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/prac/DuplicateWordsInString.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/prac/StringOnlyDigits.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/morepractice/PRInteger.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/morepractice/AddNumbers.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/morepractice/MultiplyFloatingPointNumbers.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/morepractice/Ascii.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/morepractice/QuotientReminder.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/morepractice/SwapTwoNumbers.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/morepractice/EvenOdd.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/morepractice/VowelConsonant.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/morepractice/LargestAmong3Numbers.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/morepractice/LeapYear.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/morepractice/PositiveNegativer.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/morepractice/AlphabetCheck.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/morepractice/MultiplicationTable.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/morepractice/Fibonacci.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/morepractice/PrintChar.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/morepractice/NumberOfDigitsInInteger.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/morepractice/ReverseNumber.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/morepractice/PowerOfANumber.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/morepractice/Palindrome.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/morepractice/PrimeNumberInRange.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/prac/AmstrongNumber.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/morepractice/FactorsOfANumber.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/morepractice/Calculator.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/morepractice/CheckPrimeNumber.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/morepractice/NaturalNumbersRecursion.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/morepractice/NatualNumberSum.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/morepractice/FactorialRecusive.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/morepractice/BinaryToDecimal.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/morepractice/DecimalToBinary.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/morepractice/DecimalToOctal.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/morepractice/OctalToDecimal.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/DBConnection/DataBaseUtil.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/morepractice/FireFoxHeadless.java" />
-        <option value="$PROJECT_DIR$/src/test/java/ocrdemo/BrokenLinkTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/ocrdemo/BootStrapDropDown.java" />
-        <option value="$PROJECT_DIR$/src/test/java/ocrdemo/HandleBootStrapDropBoxes.java" />
-        <option value="$PROJECT_DIR$/src/test/java/ocrdemo/Scroll.java" />
-        <option value="$PROJECT_DIR$/src/test/java/ocrdemo/JSExp.java" />
-        <option value="$PROJECT_DIR$/src/test/java/ocrdemo/Demo1.java" />
-        <option value="$PROJECT_DIR$/src/test/java/ocrdemo/Demo2.java" />
-        <option value="$PROJECT_DIR$/src/test/java/ocrdemo/Demo4.java" />
-        <option value="$PROJECT_DIR$/src/test/java/ocrdemo/Demo5.java" />
-        <option value="$PROJECT_DIR$/src/test/java/ocrdemo/Demo6.java" />
-        <option value="$PROJECT_DIR$/src/test/java/ocrdemo/Demo7.java" />
-        <option value="$PROJECT_DIR$/src/test/java/ocrdemo/DBDemoClass.java" />
-        <option value="$PROJECT_DIR$/src/test/java/ocrdemo/DBDemo2.java" />
-        <option value="$PROJECT_DIR$/src/test/java/ocrdemo/Dummy1.java" />
-        <option value="$PROJECT_DIR$/src/test/java/ocrdemo/Dummy2.java" />
-      </list>
-    </option>
-  </component>
-  <component name="MavenImportPreferences">
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="importAutomatically" value="true" />
-      </MavenImportingSettings>
-    </option>
-  </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="18" />
-    <option name="y" value="23" />
-    <option name="width" value="1481" />
-    <option name="height" value="789" />
-  </component>
+  <component name="ProjectId" id="1cXaQzWQ9uFpevdCPhqDMxjWIZE" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="DataDrivenExcel" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DataDrivenExcel" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DataDrivenExcel" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DataDrivenExcel" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DataDrivenExcel" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DataDrivenExcel" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DataDrivenExcel" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DataDrivenExcel" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DataDrivenExcel" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DataDrivenExcel" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DataDrivenExcel" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DataDrivenExcel" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="DBConnection" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DataDrivenExcel" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DataDrivenExcel" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="ocrdemo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DataDrivenExcel" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DataDrivenExcel" type="462c0819:PsiDirectoryNode" />
-              <item name="test-output" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DataDrivenExcel" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
-    </panes>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="GenerateAntBuildDialog.backupFiles" value="true" />
     <property name="GenerateAntBuildDialog.enableUiFormCompile" value="true" />
     <property name="GenerateAntBuildDialog.forceTargetJdk" value="true" />
     <property name="GenerateAntBuildDialog.outputFileNameProperty" value="datadrivenexcel" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="extract.method.default.visibility" value="private" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/java/ocrdemo" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.67746687" />
@@ -261,58 +142,7 @@
       <recent name="$PROJECT_DIR$/src/main/java/com/testdata" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Application.Dummy2">
-    <configuration name="DBDemo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ocrdemo.DBDemo2" />
-      <module name="DataDrivenExcel" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ocrdemo.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DBDemoClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ocrdemo.DBDemoClass" />
-      <module name="DataDrivenExcel" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ocrdemo.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Demo6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ocrdemo.Demo6" />
-      <module name="DataDrivenExcel" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ocrdemo.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.OccurenceOfChar">
     <configuration name="Demo7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ocrdemo.Demo7" />
       <module name="DataDrivenExcel" />
@@ -339,13 +169,52 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="OccurenceOfChar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ocrdemo.OccurenceOfChar" />
+      <module name="DataDrivenExcel" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ocrdemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReversedString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.prac.ReversedString" />
+      <module name="DataDrivenExcel" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.prac.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringManipulation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.prac.StringManipulation" />
+      <module name="DataDrivenExcel" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.prac.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.OccurenceOfChar" />
         <item itemvalue="Application.Dummy2" />
-        <item itemvalue="Application.DBDemo2" />
-        <item itemvalue="Application.DBDemoClass" />
         <item itemvalue="Application.Demo7" />
-        <item itemvalue="Application.Demo6" />
+        <item itemvalue="Application.StringManipulation" />
+        <item itemvalue="Application.ReversedString" />
       </list>
     </recent_temporary>
   </component>
@@ -362,70 +231,63 @@
     </task>
     <servers />
   </component>
-  <component name="TestHistory">
-    <history-entry file="NopCommerceTest1_(3) - 2020.05.20 at 14h 29m 22s.xml">
-      <configuration name="NopCommerceTest1 (3)" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="NopCommerceTest1 - 2020.05.20 at 14h 30m 33s.xml">
-      <configuration name="NopCommerceTest1" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="NopCommerceTest1 - 2020.05.20 at 14h 30m 59s.xml">
-      <configuration name="NopCommerceTest1" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="NopCommerceTest1_(4) - 2020.05.20 at 14h 54m 14s.xml">
-      <configuration name="NopCommerceTest1 (4)" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="ExtentReportsNewCheck - 2020.05.20 at 14h 55m 22s.xml">
-      <configuration name="ExtentReportsNewCheck" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="ExtentReportsNewCheck - 2020.05.20 at 15h 12m 50s.xml">
-      <configuration name="ExtentReportsNewCheck" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="Scroll - 2020.05.25 at 12h 24m 17s.xml">
-      <configuration name="Scroll" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="Scroll - 2020.05.25 at 12h 24m 43s.xml">
-      <configuration name="Scroll" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="Scroll_scrollPage - 2020.05.25 at 12h 26m 15s.xml">
-      <configuration name="Scroll.scrollPage" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="Scroll - 2020.05.25 at 12h 26m 47s.xml">
-      <configuration name="Scroll" configurationId="TestNG" />
-    </history-entry>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
-  <component name="ToolWindowManager">
-    <frame x="18" y="23" width="1481" height="789" extended-state="0" />
-    <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27380124" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Designer" order="2" />
-      <window_info id="Image Layers" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.3297587" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.33715925" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.28120518" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Graph Database Console" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32855093" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.32711622" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Graph Database" order="4" />
-      <window_info anchor="right" id="Maven" order="5" />
-      <window_info anchor="right" id="Theme Preview" order="6" />
-      <window_info anchor="right" id="Capture Analysis" order="7" />
-      <window_info anchor="right" id="Palette&#9;" order="8" />
-    </layout>
+  <component name="WindowStateProjectService">
+    <state width="1398" height="236" key="GridCell.Tab.0.bottom" timestamp="1592474569869">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="236" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1592474569869" />
+    <state width="1398" height="236" key="GridCell.Tab.0.center" timestamp="1592474569868">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="236" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1592474569868" />
+    <state width="1398" height="236" key="GridCell.Tab.0.left" timestamp="1592474569867">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="236" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1592474569867" />
+    <state width="1398" height="236" key="GridCell.Tab.0.right" timestamp="1592474569869">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="236" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1592474569869" />
+    <state width="1398" height="192" key="GridCell.Tab.1.bottom" timestamp="1590992011218">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="192" key="GridCell.Tab.1.bottom/0.23.1440.877@0.23.1440.877" timestamp="1590992011218" />
+    <state width="1398" height="192" key="GridCell.Tab.1.center" timestamp="1590992011217">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="192" key="GridCell.Tab.1.center/0.23.1440.877@0.23.1440.877" timestamp="1590992011217" />
+    <state width="1398" height="192" key="GridCell.Tab.1.left" timestamp="1590992011217">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="192" key="GridCell.Tab.1.left/0.23.1440.877@0.23.1440.877" timestamp="1590992011217" />
+    <state width="1398" height="192" key="GridCell.Tab.1.right" timestamp="1590992011218">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="192" key="GridCell.Tab.1.right/0.23.1440.877@0.23.1440.877" timestamp="1590992011218" />
+    <state x="258" y="123" key="Maven.ArtifactSearchDialog" timestamp="1590680083053">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="258" y="123" key="Maven.ArtifactSearchDialog/0.23.1440.877@0.23.1440.877" timestamp="1590680083053" />
+    <state x="253" y="35" key="SettingsEditor" timestamp="1590680138476">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="253" y="35" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1590680138476" />
+    <state x="458" y="203" key="extract.method.dialog" timestamp="1592395436667">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="458" y="203" key="extract.method.dialog/0.23.1440.877@0.23.1440.877" timestamp="1592395436667" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -433,79 +295,66 @@
         <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/src/test/java/ocrdemo/DBDemo2.java</url>
           <line>30</line>
-          <properties />
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/src/test/java/ocrdemo/DBDemo2.java</url>
           <line>31</line>
-          <properties />
           <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/src/test/java/ocrdemo/DBDemo2.java</url>
           <line>6</line>
-          <properties />
           <option name="timeStamp" value="3" />
         </line-breakpoint>
         <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/src/test/java/ocrdemo/DBDemo2.java</url>
           <line>7</line>
-          <properties />
           <option name="timeStamp" value="4" />
         </line-breakpoint>
         <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/src/test/java/ocrdemo/DBDemo2.java</url>
           <line>9</line>
-          <properties />
           <option name="timeStamp" value="5" />
         </line-breakpoint>
         <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/src/test/java/ocrdemo/DBDemo2.java</url>
           <line>10</line>
-          <properties />
           <option name="timeStamp" value="6" />
         </line-breakpoint>
         <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/src/test/java/ocrdemo/DBDemo2.java</url>
           <line>11</line>
-          <properties />
           <option name="timeStamp" value="7" />
         </line-breakpoint>
         <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/src/test/java/ocrdemo/DBDemo2.java</url>
           <line>13</line>
-          <properties />
           <option name="timeStamp" value="8" />
         </line-breakpoint>
         <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/src/test/java/ocrdemo/DBDemo2.java</url>
           <line>17</line>
-          <properties />
           <option name="timeStamp" value="9" />
         </line-breakpoint>
         <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/src/test/java/ocrdemo/DBDemo2.java</url>
           <line>18</line>
-          <properties />
           <option name="timeStamp" value="10" />
         </line-breakpoint>
         <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/src/test/java/ocrdemo/DBDemo2.java</url>
           <line>20</line>
-          <properties />
           <option name="timeStamp" value="11" />
         </line-breakpoint>
         <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/src/test/java/ocrdemo/DBDemo2.java</url>
           <line>22</line>
-          <properties />
           <option name="timeStamp" value="12" />
         </line-breakpoint>
         <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/src/test/java/ocrdemo/DBDemo2.java</url>
           <line>23</line>
-          <properties />
           <option name="timeStamp" value="13" />
         </line-breakpoint>
         <line-breakpoint type="java-method">
@@ -518,485 +367,5 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/morepractice/AddNumbers.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/morepractice/MultiplyFloatingPointNumbers.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/morepractice/Ascii.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="44" lean-forward="true" selection-start-line="4" selection-start-column="44" selection-end-line="4" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/morepractice/AlphabetCheck.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/morepractice/PositiveNegativer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/morepractice/LeapYear.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="24" lean-forward="true" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/morepractice/LargestAmong3Numbers.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/morepractice/VowelConsonant.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="21" lean-forward="true" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/morepractice/EvenOdd.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/morepractice/SwapTwoNumbers.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="23" column="21" lean-forward="true" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/morepractice/QuotientReminder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/morepractice/MultiplicationTable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/morepractice/Fibonacci.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/morepractice/ReverseNumber.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/morepractice/NumberOfDigitsInInteger.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/morepractice/PrintChar.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/morepractice/Palindrome.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="20" lean-forward="true" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/morepractice/PowerOfANumber.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/prac/AmstrongNumber.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="25" lean-forward="true" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
-          <folding>
-            <element signature="e#467#468#0" expanded="true" />
-            <element signature="e#498#499#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/morepractice/PrimeNumberInRange.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/morepractice/Calculator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="46" lean-forward="true" selection-start-line="23" selection-start-column="46" selection-end-line="23" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/morepractice/CheckPrimeNumber.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/morepractice/FactorsOfANumber.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="39" lean-forward="true" selection-start-line="6" selection-start-column="39" selection-end-line="6" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/prac/Factorial.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="21" column="5" lean-forward="true" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/morepractice/NaturalNumbersRecursion.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="9" lean-forward="true" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/morepractice/NatualNumberSum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/morepractice/DecimalToBinary.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/morepractice/BinaryToDecimal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="57" lean-forward="true" selection-start-line="5" selection-start-column="57" selection-end-line="5" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/morepractice/FactorialRecusive.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="16" lean-forward="true" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/morepractice/OctalToDecimal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="9" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
-          <folding>
-            <element signature="e#397#398#0" expanded="true" />
-            <element signature="e#450#451#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/src.zip!/java/sql/Connection.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="865">
-          <caret line="105" column="7" lean-forward="true" selection-start-line="105" selection-start-column="7" selection-end-line="105" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/morepractice/DecimalToOctal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="27" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/morepractice/FireFoxHeadless.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="30" column="46" lean-forward="true" selection-start-line="25" selection-start-column="8" selection-end-line="30" selection-end-column="46" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/ocrdemo/BrokenLinkTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="141">
-          <caret line="24" column="46" lean-forward="true" selection-start-line="22" selection-start-column="7" selection-end-line="24" selection-end-column="46" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1037#1049#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/ocrdemo/BootStrapDropDown.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="13" column="4" selection-start-line="13" selection-start-column="4" selection-end-line="16" selection-end-column="27" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/ocrdemo/HandleBootStrapDropBoxes.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="77" selection-start-line="13" selection-start-column="6" selection-end-line="16" selection-end-column="77" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/ocrdemo/Scroll.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-17">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/ocrdemo/JSExp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="17" column="10" selection-start-line="17" selection-start-column="10" selection-end-line="17" selection-end-column="10" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/src.zip!/java/lang/Object.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2891">
-          <caret line="36" column="13" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/ocrdemo/Demo1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/ocrdemo/Demo2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="31" column="13" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/ocrdemo/Demo4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="30" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/ocrdemo/Demo5.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/ocrdemo/Demo6.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/ocrdemo/Demo7.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="12" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
-          <folding>
-            <element signature="e#77#78#0" expanded="true" />
-            <element signature="e#95#96#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/src.zip!/java/sql/DriverManager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="127">
-          <caret line="204" column="54" lean-forward="true" selection-start-line="204" selection-start-column="54" selection-end-line="204" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/ocrdemo/DBDemoClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="34" selection-start-line="34" selection-end-line="34" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/ocrdemo/DBDemo2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/ocrdemo/Dummy1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="11" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
-          <folding>
-            <element signature="e#74#75#0" expanded="true" />
-            <element signature="e#110#111#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/DBConnection/DataBaseUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="33" selection-start-line="18" selection-start-column="33" selection-end-line="19" selection-end-column="64" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/ocrdemo/Dummy2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ArtifactsStructureConfigurable.UI">
-        <settings>
-          <artifact-editor />
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="FacetStructureConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="GlobalLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="JdkListConfigurable.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ModuleStructureConfigurable.UI">
-        <settings>
-          <last-edited>DataDrivenExcel</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.67746687" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectJDKs.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectLibrariesConfigurable.UI">
-        <settings>
-          <last-edited>Maven: aopalliance:aopalliance:1.0</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.67746687" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
   </component>
 </project>

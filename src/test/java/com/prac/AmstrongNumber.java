@@ -19,6 +19,6 @@ public class AmstrongNumber {
     }
 
     public static void main(String[] args) {
-        isAmstrong(154);
+        isAmstrong(153);
     }
 }

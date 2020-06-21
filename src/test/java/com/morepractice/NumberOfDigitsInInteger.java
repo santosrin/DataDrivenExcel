@@ -9,7 +9,7 @@ public class NumberOfDigitsInInteger {
 
         while (num!=0) {
             num = num/10;
-            ++count;
+           count++;
         }
         System.out.println(count);
     }

@@ -15,7 +15,7 @@ public class DecimalToOctal {
 
     public static void main(String[] args) {
 
-        System.out.println(decimalToOctal(109));
+        System.out.println(decimalToOctal(51));
     }
 
 }

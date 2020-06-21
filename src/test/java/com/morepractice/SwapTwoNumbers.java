@@ -19,9 +19,9 @@ public class SwapTwoNumbers {
 //        System.out.println("a=" + a);
 //        System.out.println("b=" + b);
 
-        a = a-b; //-10
-        b = a+b; //10
-        a = b-a; //20
+        a = a+b; //-10
+        b = a-b; //10
+        a = a-b; //20
 
         System.out.println("a=" + a);
         System.out.println("b=" + b);

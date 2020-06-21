@@ -12,7 +12,7 @@ public class NaturalNumbersRecursion {
 
     public static void main(String[] args) {
 
-        int num = 20;
+        int num = 10;
         int sum = addNum(num);
         System.out.println(sum);
     }

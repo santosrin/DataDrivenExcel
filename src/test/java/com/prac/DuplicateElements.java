@@ -21,6 +21,14 @@ public class DuplicateElements {
         }
 
         //2. Hashset - part of java collection - stores unique values - O(n)
+//
+//        Set<String> store1 = new HashSet<>();
+//        for(String names1:name) {
+//            if(store1.add(names1) == false) {
+//                System.out.println("Duplicate : " +names1);
+//            }
+//        }
+
         Set<String> store = new HashSet<String>();
         for(String names :name) {
             if(store.add(names) == false) {

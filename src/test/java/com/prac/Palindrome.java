@@ -11,7 +11,7 @@ public class Palindrome {
         t= num;
         while(num > 0) {
             r= num%10; // get the reminder
-            sum = (sum*10) + r;
+            sum = sum*10+r;
             num = num/10;
         }
 

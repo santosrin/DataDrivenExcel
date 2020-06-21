@@ -4,9 +4,9 @@ public class LargestAmong3Numbers {
 
     public static void main(String[] args) {
 
-        int x = 1000;
-        int y = 1000;
-        int z = 1000;
+        int x = 10000;
+        int y = 2000000;
+        int z = 3000;
 
         if(x>=y && x >= z) {
             System.out.println("x is greatest");
