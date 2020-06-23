@@ -20,25 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b2bb4da3-9af0-4114-9dbf-0e1a33fed90c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/DataStructures/ArrayListDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/DataStructures/BinaryTreeInOrderTraversal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/DataStructures/BinaryTreePostOrderTraversal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/DataStructures/BinaryTreePreOrderTraversal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/DataStructures/CompImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/DataStructures/ComparableDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/DataStructures/ComparatorClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/DataStructures/ComparatorStudent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/DataStructures/EmpClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/DataStructures/HashMapDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/DataStructures/LinkedListCheck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/DataStructures/LinkedListStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/DataStructures/LinkedListStack2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/DataStructures/ListExamples.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/DataStructures/QueueArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/DataStructures/QueueArray1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/DataStructures/SetDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/DataStructures/StackImp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/DataStructures/DoubleBrace.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/DataStructures/MapInterface.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/DataStructures/SetDemo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/DataStructures/SetDemo1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,22 +81,9 @@
       <recent name="$PROJECT_DIR$/src/main/java/com/testdata" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ComparableDemo">
+  <component name="RunManager" selected="Application.DoubleBrace">
     <configuration name="ComparableDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DataStructures.ComparableDemo" />
-      <module name="DataDrivenExcel" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="DataStructures.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ComparatorClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DataStructures.ComparatorClass" />
       <module name="DataDrivenExcel" />
       <extension name="coverage">
         <pattern>
@@ -136,8 +108,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HashMapDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DataStructures.HashMapDemo" />
+    <configuration name="DoubleBrace" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DataStructures.DoubleBrace" />
       <module name="DataDrivenExcel" />
       <extension name="coverage">
         <pattern>
@@ -149,8 +121,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SetDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DataStructures.SetDemo" />
+    <configuration name="MapInterface" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DataStructures.MapInterface" />
+      <module name="DataDrivenExcel" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DataStructures.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SetDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DataStructures.SetDemo1" />
       <module name="DataDrivenExcel" />
       <extension name="coverage">
         <pattern>
@@ -164,11 +149,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DoubleBrace" />
+        <item itemvalue="Application.MapInterface" />
+        <item itemvalue="Application.SetDemo1" />
         <item itemvalue="Application.ComparableDemo" />
         <item itemvalue="Application.ComparatorStudent" />
-        <item itemvalue="Application.ComparatorClass" />
-        <item itemvalue="Application.HashMapDemo" />
-        <item itemvalue="Application.SetDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -202,22 +187,22 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="533" y="175" key="#com.intellij.ide.util.MemberChooser/0.23.1440.877@0.23.1440.877" timestamp="1592912749086" />
-    <state width="1398" height="170" key="GridCell.Tab.0.bottom" timestamp="1592913040070">
+    <state width="1398" height="170" key="GridCell.Tab.0.bottom" timestamp="1592916235089">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="170" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1592913040070" />
-    <state width="1398" height="170" key="GridCell.Tab.0.center" timestamp="1592913040069">
+    <state width="1398" height="170" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1592916235089" />
+    <state width="1398" height="170" key="GridCell.Tab.0.center" timestamp="1592916235087">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="170" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1592913040069" />
-    <state width="1398" height="170" key="GridCell.Tab.0.left" timestamp="1592913040068">
+    <state width="1398" height="170" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1592916235087" />
+    <state width="1398" height="170" key="GridCell.Tab.0.left" timestamp="1592916235087">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="170" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1592913040068" />
-    <state width="1398" height="170" key="GridCell.Tab.0.right" timestamp="1592913040069">
+    <state width="1398" height="170" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1592916235087" />
+    <state width="1398" height="170" key="GridCell.Tab.0.right" timestamp="1592916235088">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="170" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1592913040069" />
+    <state width="1398" height="170" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1592916235088" />
     <state width="1398" height="192" key="GridCell.Tab.1.bottom" timestamp="1592911697795">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
