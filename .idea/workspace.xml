@@ -20,15 +20,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b2bb4da3-9af0-4114-9dbf-0e1a33fed90c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/Java8/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Java8/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Java8/StreamsFilterFindAnyOrElse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Java8/StreamsFilterMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Java8/StreamsFilterWithCollect.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Java8/StreamsFlatmap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Java8/StreamswithSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Java8/GenericDemoMainClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Java8/GenericsDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Java8/StreamsWithIntegerArrayFlatMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Java8_2/Interface1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Java8_2/InterfaceEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Java8_2/MainClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Java8_2/StreamAPI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Java8_2/StreamDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Java8_2/StreamPredicate.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Java8/LambdaExpressionMethodReferences.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Java8/LambdaExpressionMethodReferences.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,9 +90,9 @@
       <recent name="$PROJECT_DIR$/src/main/java/com/testdata" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.StreamswithSet">
-    <configuration name="StreamsFilterFindAnyOrElse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java8.StreamsFilterFindAnyOrElse" />
+  <component name="RunManager" selected="Application.StreamPredicate">
+    <configuration name="GenericDemoMainClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java8.GenericDemoMainClass" />
       <module name="DataDrivenExcel" />
       <extension name="coverage">
         <pattern>
@@ -103,12 +104,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StreamsFilterMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java8.StreamsFilterMap" />
+    <configuration name="MainClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java8_2.MainClass" />
       <module name="DataDrivenExcel" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Java8.*" />
+          <option name="PATTERN" value="Java8_2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,12 +117,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StreamsFilterWithCollect" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java8.StreamsFilterWithCollect" />
+    <configuration name="StreamAPI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java8_2.StreamAPI" />
       <module name="DataDrivenExcel" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Java8.*" />
+          <option name="PATTERN" value="Java8_2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,12 +130,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StreamsFlatmap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java8.StreamsFlatmap" />
+    <configuration name="StreamDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java8_2.StreamDemo" />
       <module name="DataDrivenExcel" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Java8.*" />
+          <option name="PATTERN" value="Java8_2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -142,12 +143,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StreamswithSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java8.StreamswithSet" />
+    <configuration name="StreamPredicate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java8_2.StreamPredicate" />
       <module name="DataDrivenExcel" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Java8.*" />
+          <option name="PATTERN" value="Java8_2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -157,11 +158,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.StreamswithSet" />
-        <item itemvalue="Application.StreamsFlatmap" />
-        <item itemvalue="Application.StreamsFilterMap" />
-        <item itemvalue="Application.StreamsFilterFindAnyOrElse" />
-        <item itemvalue="Application.StreamsFilterWithCollect" />
+        <item itemvalue="Application.StreamPredicate" />
+        <item itemvalue="Application.StreamDemo" />
+        <item itemvalue="Application.StreamAPI" />
+        <item itemvalue="Application.MainClass" />
+        <item itemvalue="Application.GenericDemoMainClass" />
       </list>
     </recent_temporary>
   </component>
@@ -191,26 +192,26 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="533" y="175" key="#com.intellij.ide.util.MemberChooser" timestamp="1593098142327">
+    <state x="533" y="175" key="#com.intellij.ide.util.MemberChooser" timestamp="1593155410631">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="533" y="175" key="#com.intellij.ide.util.MemberChooser/0.23.1440.877@0.23.1440.877" timestamp="1593098142327" />
-    <state width="1398" height="170" key="GridCell.Tab.0.bottom" timestamp="1593098970436">
+    <state x="533" y="175" key="#com.intellij.ide.util.MemberChooser/0.23.1440.877@0.23.1440.877" timestamp="1593155410631" />
+    <state width="1398" height="170" key="GridCell.Tab.0.bottom" timestamp="1593173585354">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="170" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1593098970436" />
-    <state width="1398" height="170" key="GridCell.Tab.0.center" timestamp="1593098970435">
+    <state width="1398" height="170" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1593173585354" />
+    <state width="1398" height="170" key="GridCell.Tab.0.center" timestamp="1593173585353">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="170" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1593098970435" />
-    <state width="1398" height="170" key="GridCell.Tab.0.left" timestamp="1593098970435">
+    <state width="1398" height="170" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1593173585353" />
+    <state width="1398" height="170" key="GridCell.Tab.0.left" timestamp="1593173585351">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="170" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1593098970435" />
-    <state width="1398" height="170" key="GridCell.Tab.0.right" timestamp="1593098970436">
+    <state width="1398" height="170" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1593173585351" />
+    <state width="1398" height="170" key="GridCell.Tab.0.right" timestamp="1593173585354">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="170" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1593098970436" />
+    <state width="1398" height="170" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1593173585354" />
     <state width="1398" height="192" key="GridCell.Tab.1.bottom" timestamp="1593081631718">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
