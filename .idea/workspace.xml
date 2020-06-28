@@ -20,16 +20,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b2bb4da3-9af0-4114-9dbf-0e1a33fed90c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/Java8/GenericDemoMainClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Java8/GenericsDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Java8/StreamsWithIntegerArrayFlatMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Java8_2/Interface1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Java8_2/InterfaceEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Java8_2/MainClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Java8_2/StreamAPI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Java8_2/StreamDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Java8_2/StreamPredicate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Java8_2/DateTimeDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Java8_2/InfiniteStream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Java8_2/ParallelStreamConcept.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Java8_2/PrimeNumberWithParallelStream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Java8_2/SeleniumCheckBoxWithStream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Java8_2/SeleniumLinksWithStream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Java8_2/SeleniumStreamsDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Java8_2/SeleniumWindowHandles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Java8_2/SequentialStreams.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application.log" beforeDir="false" afterPath="$PROJECT_DIR$/application.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Java8_2/StreamPredicate.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Java8_2/StreamPredicate.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,22 +92,9 @@
       <recent name="$PROJECT_DIR$/src/main/java/com/testdata" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.StreamPredicate">
-    <configuration name="GenericDemoMainClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java8.GenericDemoMainClass" />
-      <module name="DataDrivenExcel" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Java8.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MainClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java8_2.MainClass" />
+  <component name="RunManager" selected="Application.SeleniumWindowHandles">
+    <configuration name="PrimeNumberWithParallelStream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java8_2.PrimeNumberWithParallelStream" />
       <module name="DataDrivenExcel" />
       <extension name="coverage">
         <pattern>
@@ -117,8 +106,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StreamAPI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java8_2.StreamAPI" />
+    <configuration name="SeleniumCheckBoxWithStream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java8_2.SeleniumCheckBoxWithStream" />
       <module name="DataDrivenExcel" />
       <extension name="coverage">
         <pattern>
@@ -130,8 +119,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StreamDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java8_2.StreamDemo" />
+    <configuration name="SeleniumLinksWithStream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java8_2.SeleniumLinksWithStream" />
       <module name="DataDrivenExcel" />
       <extension name="coverage">
         <pattern>
@@ -143,8 +132,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StreamPredicate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java8_2.StreamPredicate" />
+    <configuration name="SeleniumStreamsDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java8_2.SeleniumStreamsDemo" />
+      <module name="DataDrivenExcel" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Java8_2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SeleniumWindowHandles" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java8_2.SeleniumWindowHandles" />
       <module name="DataDrivenExcel" />
       <extension name="coverage">
         <pattern>
@@ -158,11 +160,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.StreamPredicate" />
-        <item itemvalue="Application.StreamDemo" />
-        <item itemvalue="Application.StreamAPI" />
-        <item itemvalue="Application.MainClass" />
-        <item itemvalue="Application.GenericDemoMainClass" />
+        <item itemvalue="Application.SeleniumWindowHandles" />
+        <item itemvalue="Application.SeleniumLinksWithStream" />
+        <item itemvalue="Application.SeleniumCheckBoxWithStream" />
+        <item itemvalue="Application.SeleniumStreamsDemo" />
+        <item itemvalue="Application.PrimeNumberWithParallelStream" />
       </list>
     </recent_temporary>
   </component>
@@ -196,38 +198,38 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="533" y="175" key="#com.intellij.ide.util.MemberChooser/0.23.1440.877@0.23.1440.877" timestamp="1593155410631" />
-    <state width="1398" height="170" key="GridCell.Tab.0.bottom" timestamp="1593173585354">
+    <state width="1349" height="220" key="GridCell.Tab.0.bottom" timestamp="1593263161216">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="170" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1593173585354" />
-    <state width="1398" height="170" key="GridCell.Tab.0.center" timestamp="1593173585353">
+    <state width="1349" height="220" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1593263161216" />
+    <state width="1349" height="220" key="GridCell.Tab.0.center" timestamp="1593263161215">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="170" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1593173585353" />
-    <state width="1398" height="170" key="GridCell.Tab.0.left" timestamp="1593173585351">
+    <state width="1349" height="220" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1593263161215" />
+    <state width="1349" height="220" key="GridCell.Tab.0.left" timestamp="1593263161214">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="170" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1593173585351" />
-    <state width="1398" height="170" key="GridCell.Tab.0.right" timestamp="1593173585354">
+    <state width="1349" height="220" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1593263161214" />
+    <state width="1349" height="220" key="GridCell.Tab.0.right" timestamp="1593263161215">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="170" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1593173585354" />
-    <state width="1398" height="192" key="GridCell.Tab.1.bottom" timestamp="1593081631718">
+    <state width="1349" height="220" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1593263161215" />
+    <state width="1398" height="192" key="GridCell.Tab.1.bottom" timestamp="1593182173666">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="192" key="GridCell.Tab.1.bottom/0.23.1440.877@0.23.1440.877" timestamp="1593081631718" />
-    <state width="1398" height="192" key="GridCell.Tab.1.center" timestamp="1593081631718">
+    <state width="1398" height="192" key="GridCell.Tab.1.bottom/0.23.1440.877@0.23.1440.877" timestamp="1593182173666" />
+    <state width="1398" height="192" key="GridCell.Tab.1.center" timestamp="1593182173655">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="192" key="GridCell.Tab.1.center/0.23.1440.877@0.23.1440.877" timestamp="1593081631718" />
-    <state width="1398" height="192" key="GridCell.Tab.1.left" timestamp="1593081631717">
+    <state width="1398" height="192" key="GridCell.Tab.1.center/0.23.1440.877@0.23.1440.877" timestamp="1593182173655" />
+    <state width="1398" height="192" key="GridCell.Tab.1.left" timestamp="1593182173653">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="192" key="GridCell.Tab.1.left/0.23.1440.877@0.23.1440.877" timestamp="1593081631717" />
-    <state width="1398" height="192" key="GridCell.Tab.1.right" timestamp="1593081631718">
+    <state width="1398" height="192" key="GridCell.Tab.1.left/0.23.1440.877@0.23.1440.877" timestamp="1593182173653" />
+    <state width="1398" height="192" key="GridCell.Tab.1.right" timestamp="1593182173661">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="192" key="GridCell.Tab.1.right/0.23.1440.877@0.23.1440.877" timestamp="1593081631718" />
+    <state width="1398" height="192" key="GridCell.Tab.1.right/0.23.1440.877@0.23.1440.877" timestamp="1593182173661" />
     <state x="258" y="123" key="Maven.ArtifactSearchDialog" timestamp="1590680083053">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
