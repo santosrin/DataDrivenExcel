@@ -5,12 +5,13 @@ public class Demo1 {
     public static void main(String[] args) {
 //        System.out.println("2"+"2"-"2");
 
-       int arr[] = {1,2,2,3,4,5,6,7,8,8};
+      // int arr[] = {1,2,2,3,4,5,6,7,8,8};
+       int arr[] = {1,2,3,4,5,6,7,8,9,10};
         //int arr[] = {};
         int first = arr[0];
         int last = arr.length-1;
         int mid = 0;
-        int x = 1;
+        int x = 6;
 
         System.out.println(binarySearch(arr, first, last, x));
     }

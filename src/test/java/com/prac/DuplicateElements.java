@@ -36,6 +36,13 @@ public class DuplicateElements {
             }
         }
 
+        Set<String> store1 = new HashSet<>();
+        for(String names1 : name){
+            if(store1.add(names1) == false) {
+                System.out.println("Duplicate : "+ names1);
+            }
+        }
+
         //3. HashMap
         Map<String , Integer> storeMap = new HashMap<>();
 

@@ -36,7 +36,7 @@ public class BinaryTreePostOrderTraversal {
         if(root!= null) {
             postOrderTraversal(root.left);
             postOrderTraversal(root.right);
-            System.out.print(root.data + " ");
+            System.out.print(root + " ");
         }
     }
 

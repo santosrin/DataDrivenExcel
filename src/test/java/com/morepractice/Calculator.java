@@ -10,7 +10,6 @@ public class Calculator {
         double firstNum = scanner.nextDouble();
         double secondNum = scanner.nextDouble();
 
-
         System.out.println("Enter Operator : (+ , - , *, /)");
         char operator = scanner.next().charAt(0);
 
@@ -33,8 +32,6 @@ public class Calculator {
                 System.out.println("Please pass the correct operator");
                 break;
         }
-
         System.out.println(result);
-
     }
 }

@@ -17,6 +17,8 @@ public class ActionsDemo {
         Actions actions = new Actions(driver);
         actions.moveToElement(driver.findElement(By.xpath("//a[@class='menulink']"))).build().perform();
 
+        Actions a1 = new Actions(driver);
+
         Thread.sleep(3000);
 
         driver.findElement(By.xpath("//ul[@class='submenu']//a[contains(text(),'Articles')]")).click();
